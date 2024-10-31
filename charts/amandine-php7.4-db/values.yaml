@@ -1,0 +1,11 @@
+NameSpace: koden-clients
+AppName: oops-db
+NodePort: 32147
+
+MariadbReplicas: 1
+MariadbImageTag: latest
+MariadbDiskSize: 5Gi
+MariadbServerId: 2
+MariadbDbName: DB_75whrypia
+MariadbDbUser: 75whrypia
+MariadbDbPort: 3306
