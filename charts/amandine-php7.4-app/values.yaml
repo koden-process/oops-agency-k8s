@@ -3,3 +3,5 @@ AppName: oops-app
 
 HostName: oops-agency.com
 DiskSize: 5Gi
+
+DockerImage: killiankopp/amandine-7.4:241122
